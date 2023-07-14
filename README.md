@@ -7,8 +7,6 @@ This project is a Java-based CRM (Customer Relationship Management) tool for man
 - Gas Booking: Users can easily book gas cylinders using the CRM tool.
 - Delivery Tracking: The tool enables tracking of the delivery status of gas cylinders.
 - Refill History: Users can view the refill history and track the frequency of refills.
-- Customer Support: Integrated customer support system to address customer queries and concerns.
-- Feedback and Ratings: Customers can provide feedback and ratings for their gas delivery experience.
 - Reporting: Generate reports to analyze booking trends, delivery statuses, and other important metrics.
 
 ## Getting Started
